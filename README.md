@@ -3,5 +3,5 @@ Simple CSS practice.
 
 ## :camera_flash: Screenshoot
 
-![image](https://github.com/Hager-elhwarii/Cupcake-Gallery/assets/80959882/f593b3e6-8569-4a2e-831b-748e27cec5b5)
+![image](https://github.com/Hager-elhwarii/Cupcake-Gallery/assets/80959882/57f5afe9-22aa-4d96-8382-4e76f2e299b3)
 
