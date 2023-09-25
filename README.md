@@ -1,7 +1,6 @@
 # Cupcake Gallery :bulb:
 <a name="readme-top"></a>
--  A simple cupcake gallery.
--  Using opacity property to make each image fades out gradually (its opacity decreases to 0.3 gradually)
+-  A simple cupcake gallery, Using opacity property to make each image fades out gradually (its opacity decreases to 0.3 gradually)
  when mouse is over it, and fades in gradually (its opacity increases to 1
 gradually) when mouse is a way. (Using JavaScript to add styles).
 
