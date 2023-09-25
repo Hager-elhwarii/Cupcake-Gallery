@@ -1,6 +1,9 @@
 # Cupcake Gallery :bulb:
 <a name="readme-top"></a>
-- Simple CSS practice.
+-  A simple cupcake gallery.
+-  Using opacity property to make each image fades out gradually (its opacity decreases to 0.3 gradually)
+ when mouse is over it, and fades in gradually (its opacity increases to 1
+gradually) when mouse is a way. (Using JavaScript to add styles).
 
 ## :camera_flash: Screenshoot
 
@@ -9,11 +12,6 @@
 
 ## 🚀 Deployment
   - [Demo Link](https://cupcake-gallery-dottie.netlify.app/)
-
-## 📝 Features
- -
- -
- -
 
 ## 💻 Tech stack
 
@@ -29,7 +27,6 @@ git clone https://github.com/Hager-elhwarii/Cupcake-Gallery.git
 
 ## 📌 Acknowledgments
 
-- [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](http://hager.a.elhawary@gmail.com/)
 - [Netlify](https://www.netlify.com/)
 
